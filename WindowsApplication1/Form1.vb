@@ -20,6 +20,7 @@
     Const k4 As UInt32 = 3395469782     '&HCA62C1D6
 
 
+	
 
     'znachenije funktsii
     Dim F As UInt32
